@@ -1,7 +1,7 @@
 /* File : List2.h */
 /* Deskripsi : ADT list berkait SIRKULAR dengan representasi fisik pointer */
-/* NIM & Nama : */
-/* Tanggal : */
+/* NIM & Nama : 24060125120048 & Joshua Briliant Suryana */
+/* Tanggal : 2 November 2026*/
 #ifndef LIST2_H
 #define LIST2_H
 
