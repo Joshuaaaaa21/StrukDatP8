@@ -32,9 +32,7 @@ void Dealokasi (address *P){
 		next(*P) = NIL;
 		free(*P);
 		*P = NIL;
-	} else {
-		
-	}
+	} 
 }
 
 /********** PEMBUATAN LIST KOSONG ***********/

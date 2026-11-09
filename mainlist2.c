@@ -61,7 +61,7 @@ int main() {
 
     SearchX(L, X, &foundAddr);
     if (foundAddr != NIL) {
-        printf("  SearchX: elemen '%c' DITEMUKAN pada address %p\n", X, (void*)foundAddr);
+        printf("  SearchX: elemen '%c' DITEMUKAN pada address %i\n", X, (void*)foundAddr);
     } else {
         printf("  SearchX: elemen '%c' TIDAK DITEMUKAN\n", X);
     }
